@@ -1,0 +1,14 @@
+body{
+	padding-top: 3rem;
+   font-family: 'Fredericka the Great', cursive;
+}
+
+rect{
+fill:indianred;
+}
+
+rect:hover{
+fill:darkred;
+transition: all ease .5s;
+cursor: crosshair;
+}
